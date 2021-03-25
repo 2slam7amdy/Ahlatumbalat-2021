@@ -1489,7 +1489,7 @@ form[name="go_page"] table.forumline {
     	border: 1px solid #cf4e95;
 }
 .pagination span a:link, .pagination span a:visited {
-    	margin: 0;
+    	margin: 0 2px;
   	background: linear-gradient(0deg, #0498f4, #0498f4);
   	color: #f2edef;
     	border-width: 1px;
