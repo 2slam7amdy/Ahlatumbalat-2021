@@ -2024,7 +2024,7 @@ fieldset.quickmod {
     	right: -40px;
   }
 }
-.mobMenu {display: none;}
+/*.mobMenu {display: none;}*/
 .mobMenu i, #logo-text { font-size: 22px; height: 50px; color: #39c !important cursor: pointer; line-height: 50px; }
 @media (max-width: 800px) { 
   /*.mobMenu { display: block; }*/
